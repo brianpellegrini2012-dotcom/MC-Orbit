@@ -1,5 +1,7 @@
 # MC-Orbit v3.5
 
+work in progres
+
 A simple and fast Minecraft server manager for Termux and Linux.
 
 Create, start, and delete `Paper` and `Fabric` servers in seconds directly from your terminal.
@@ -20,4 +22,4 @@ Create, start, and delete `Paper` and `Fabric` servers in seconds directly from 
 
 1.  Download the script
     ```bash
-    wget https://your-link/mc-orbit.sh
+    in soon
