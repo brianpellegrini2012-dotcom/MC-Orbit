@@ -22,4 +22,4 @@ Create, start, and delete `Paper` and `Fabric` servers in seconds directly from 
 
 1.  Download the script
     ```bash
-    in soon
+    soon
